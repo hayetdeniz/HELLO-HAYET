@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## HELLO HAYET
 
 You can use the [editor on GitHub](https://github.com/hayetdeniz/HELLO-HAYET/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
